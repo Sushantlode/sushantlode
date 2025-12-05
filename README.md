@@ -1,13 +1,13 @@
 <!-- Profile README for Harpal Rajput -->
 
-<h1 align="center">Hi 👋, I'm Harpal Rajput</h1>
-<h3 align="center">🚀 MERN Web Developer | 🎨 UI/UX Designer | 🤖 AI & Analytics Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sushant Lode</h1>
+<h3 align="center">🚀 MERN Web Developer | 🎨 UI/UX Designer | 🤖 AI & Analytics Enthusias | Spring boot developer</h3>
 
 ---
 
 ### 🔥 About Me  
-- 🎓 3rd-year *B.Tech CSE (AI & Analytics)* student at *MIT-ADT University, Pune*  
-- 💻 Passionate about *Full-Stack Development (MERN)*  
+- 🎓  *B.Tech IT * student at *RTMN University, NAGPUR*  
+- 💻 Passionate about *Full-Stack Development (MERN / JAVA)*  
 - 🎨 Exploring *UI/UX design* to craft seamless user experiences  
 - 🤖 Learning *AI + Data Analytics* to build intelligent applications  
 - 🚀 Always curious, building, and experimenting with new tech  
@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harpalrajput007&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harpalrajput007&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sushantlode&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantlode&theme=radical" height="165"/>
 </p>  
 
 
@@ -56,9 +56,9 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/harpalrajput007" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:harpalsinghrajput007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/harpalrajput007" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="www.linkedin.com/in/sushantlode" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:sushantlode007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/sushantlode" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
