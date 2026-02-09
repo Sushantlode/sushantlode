@@ -1,4 +1,4 @@
-<!-- Profile README for Harpal Rajput -->
+<!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Sushant Lode</h1>
 <h3 align="center">🚀 MERN Web Developer | ☕ Java & Spring Boot Developer | 🎨 UI/UX Designer | 🤖 AI & Analytics Enthusiast</h3>
@@ -35,6 +35,16 @@
 
 ---
 
+### 📌 Featured Projects  
+- 🏦 *LakshArth* – Full-Stack Investment Management Platform  
+- 🎥 *Vaarta* – Real-time Video Meeting App (WebRTC + Socket.IO)  
+- 🤖 *VisionGPT* – AI-Powered Chat Application (LLM + JWT Auth)  
+- 🌍 *Safarnama* – Travel Listing Platform (Node.js + EJS + MongoDB)  
+
+➡ *Check more at my [Repositories](https://github.com/sushantlode?tab=repositories)*  
+
+---
+
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushantlode&show_icons=true&theme=radical" height="165"/>
@@ -44,14 +54,14 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harpalrajput007&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantlode&theme=tokyo-night" alt="Contribution Graph"/>
 </p>  
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/sushantlode" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/sushantlode" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:sushantlode007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://github.com/sushantlode" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
