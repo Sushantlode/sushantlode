@@ -61,7 +61,7 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="[https://www.linkedin.com/in/sushantlode](https://www.linkedin.com/in/sushant-lode-568951226/)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="www.linkedin.com/in/sushant-lode-568951226" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:sushantlode007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://github.com/sushantlode" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
