@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Sushant Lode</h1>
-<h3 align="center">🚀 MERN Web Developer | ☕ Java & Spring Boot Developer | 🎨 UI/UX Designer | 🤖 AI & Analytics Enthusiast</h3>
+<h3 align="center">🚀 MERN Web Developer | ☕ Java & Spring Boot Developer 
 
 ---
 
